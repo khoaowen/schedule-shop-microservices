@@ -11,10 +11,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2WebMvc;
 @EnableSwagger2WebMvc
 @EnableEncryptableProperties
 @Import(SpringDataRestConfiguration.class)
-public class UserInfoApplication {
+public class UserServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UserInfoApplication.class, args);
+        SpringApplication.run(UserServiceApplication.class, args);
     }
 
 }
