@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e355ea11-e6e1-44a9-a0e3-af2f8425d2b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../schedule-shop/src/main/java/com/nailschedule/shop/controller/ShopController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../schedule-shop" />
+  </component>
+  <component name="ProjectId" id="1c62FREA5WCteLbPYMzy7Cz52nZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/user-service/src/test/java/com/zett" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-service/src/test/java/com/zett/schedule/app/shopservice" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zett.schedule.app.shopservice" />
+      <recent name="com.zett.schedule.app.userinfo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\khoa\IdeaProjects\schedule-shop-microservices\shop-service\src\test\java\com\zett\schedule\app\shopservice" />
+      <recent name="C:\Users\khoa\IdeaProjects\schedule-shop-microservices\shop-service\src\main\resources\db\migration" />
+      <recent name="C:\Users\khoa\IdeaProjects\schedule-shop-microservices\user-info\src\main\resources\db\migration" />
+      <recent name="C:\Users\khoa\IdeaProjects\schedule-shop-microservices\user-info" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\khoa\IdeaProjects\schedule-shop\schedule-shop-microservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopServiceApplication">
+    <configuration name="ShopServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zett.schedule.app.shopservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zett.schedule.app.shopservice" />
+      <option name="MAIN_CLASS_NAME" value="com.zett.schedule.app.shopservice.ShopServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zett.schedule.app.shopservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zett.schedule.app.shopservice" />
+      <option name="MAIN_CLASS_NAME" value="com.zett.schedule.app.shopservice.ShopServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zett.schedule.app.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zett.schedule.app.userservice" />
+      <option name="MAIN_CLASS_NAME" value="com.zett.schedule.app.userservice.UserInfoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zett.schedule.app.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zett.schedule.app.userservice" />
+      <option name="MAIN_CLASS_NAME" value="com.zett.schedule.app.userservice.UserInfoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="user-service" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="user-service" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zett.schedule.app.shopservice.ShopServiceApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="JASYPT_ENCRYPTOR_PASSWORD" value="ZtTP@sSW0rd" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zett.schedule.app.userservice.UserInfoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="JASYPT_ENCRYPTOR_PASSWORD" value="ZtTP@sSW0rd" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserInfoApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.UserInfoApplicationTests" />
+      <item itemvalue="JUnit.ShopServiceApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.ShopServiceApplicationTests" />
+      <item itemvalue="Spring Boot.UserInfoApplication" />
+      <item itemvalue="Spring Boot.ShopServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopServiceApplicationTests" />
+        <item itemvalue="JUnit.ShopServiceApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.UserInfoApplicationTests" />
+        <item itemvalue="JUnit.UserInfoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e355ea11-e6e1-44a9-a0e3-af2f8425d2b1" name="Default Changelist" comment="" />
+      <created>1589834617825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589834617825</updated>
+      <workItem from="1589834620900" duration="807000" />
+      <workItem from="1589835437965" duration="8454000" />
+      <workItem from="1589882523591" duration="16235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../schedule-shop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2484" y="411" width="497" height="217" key="#Assign_Data_Sources" timestamp="1589923716713">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2484" y="411" width="497" height="217" key="#Assign_Data_Sources/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589923716713" />
+    <state x="2506" y="198" key="#Inspections" timestamp="1589844011145">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2506" y="198" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589844011145" />
+    <state x="2360" y="94" key="#Project_Structure" timestamp="1589927865989">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589927865989" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589930020504">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930020504" />
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1589841057189">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589841057189" />
+    <state x="2697" y="300" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589928790787">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2697" y="300" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928790787" />
+    <state x="2510" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589836288668">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2510" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589836288668" />
+    <state x="2458" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589928583083">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2458" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928583083" />
+    <state x="2663" y="389" width="608" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589928804670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2663" y="389" width="608" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928804670" />
+    <state x="2663" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589929750176">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2663" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589929750176" />
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589929290520">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589929290520" />
+    <state x="2660" y="213" key="FileChooserDialogImpl" timestamp="1589928303299">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="213" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928303299" />
+    <state width="1293" height="299" key="GridCell.Tab.0.bottom" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.0.center" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.0.left" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.0.right" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.1.bottom" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.1.center" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.1.left" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="1293" height="299" key="GridCell.Tab.1.right" timestamp="1589930002202">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="299" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589930002202" />
+    <state width="213" height="457" key="HiddenNamespacesPopup" timestamp="1589927213788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="213" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589927213788" />
+    <state x="2545" y="224" key="NewModule_or_Project.wizard" timestamp="1589928305234">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2545" y="224" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928305234" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1589928312380">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928312380" />
+    <state x="2783" y="302" key="chooseDestDirectoryDialog" timestamp="1589928798563">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2783" y="302" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928798563" />
+    <state x="2779" y="397" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1589885706824">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2779" y="397" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589885706824" />
+    <state x="2710" y="407" width="340" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589921806021">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2710" y="407" width="340" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589921806021" />
+    <state x="2486" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589923547204">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2486" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589923547204" />
+    <state x="2587" y="253" width="585" height="534" key="find.popup" timestamp="1589905704042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589905704042" />
+    <state x="2342" y="362" key="new project wizard" timestamp="1589928266247">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2342" y="362" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928266247" />
+    <state x="2675" y="268" key="refactoring.ChangeSignatureDialog" timestamp="1589840843455">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2675" y="268" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589840843455" />
+    <state x="2536" y="240" width="672" height="677" key="run.anything.popup" timestamp="1589928687120">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589928687120" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589837857633">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589837857633" />
+  </component>
+</project>
