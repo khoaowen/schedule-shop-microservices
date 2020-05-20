@@ -6,6 +6,15 @@ spring:
   data:
     rest:
       base-path: /api
+  rabbitmq:
+    host: localhost
+    username: user
+    password: P@ssw0rdS
+    port: 5672
+
+zett:
+  rabbitmq:
+    queue: notificationQueue
 
 server:
   port: 5001
@@ -24,3 +33,8 @@ spring:
     url: jdbc:mysql://remotemysql.com:3306/Mi1Pch3Xww
     username: Mi1Pch3Xww
     password: ENC(jJUV2VJWi+ASYlaAKRDAZ2FwwvmuAS2L)
+  rabbitmq:
+    host: buck.rmq.cloudamqp.com
+    username: fobqquzn
+    password: ENC(0EneS1T3kJOBdXj5buFTis1zKuWq0t8xvCnBvZ7Rjfz/Jv/CtJ8NP4qYEmT/WPM3)
+    port: 1883

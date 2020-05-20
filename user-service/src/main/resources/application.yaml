@@ -11,8 +11,16 @@ spring:
     properties:
       hibernate:
         format_sql: true
+  rabbitmq:
+    host: localhost
+    username: user
+    password: P@ssw0rdS
+    port: 5672
 server:
   port: 5000
+zett:
+  rabbitmq:
+    queue: notificationQueue
 ---
 spring:
   profiles: dev
@@ -28,3 +36,8 @@ spring:
     url: jdbc:mysql://remotemysql.com:3306/nvJnXNaMZQ
     username: nvJnXNaMZQ
     password: ENC(fX4aHGzKaXz9B/g2Pj5U8bdkgJYn47OZ)
+  rabbitmq:
+    host: buck.rmq.cloudamqp.com
+    username: fobqquzn
+    password: ENC(0EneS1T3kJOBdXj5buFTis1zKuWq0t8xvCnBvZ7Rjfz/Jv/CtJ8NP4qYEmT/WPM3)
+    port: 1883

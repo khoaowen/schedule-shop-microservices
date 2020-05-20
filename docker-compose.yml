@@ -1,8 +1,16 @@
 version: '3'
 services:
   mysql:
-    image: "mysql:latest"
+    image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: P@ssw0rdS
     ports:
-    - 3307:3306
+      - 3307:3306
+
+  rabbitmq:
+    image: rabbitmq:latest
+    environment:
+      RABBITMQ_DEFAULT_USER: user
+      RABBITMQ_DEFAULT_PASS: P@ssw0rdS
+    ports:
+      - 5672:5672
