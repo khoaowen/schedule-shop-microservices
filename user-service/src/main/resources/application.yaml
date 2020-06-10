@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:h2:mem:testdb
     username: sa
-    password:
+    password: password
   data:
     rest:
       base-path: /api
@@ -15,12 +15,11 @@ spring:
     host: localhost
     username: user
     password: P@ssw0rdS
-    port: 5672
-server:
-  port: 5000
 zett:
   rabbitmq:
     queue: notificationQueue
+server:
+  port: 5000
 ---
 spring:
   profiles: dev

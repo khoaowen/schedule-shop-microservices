@@ -21,7 +21,7 @@ public class ShopController {
     @PostMapping(path = "/shops")
     ResponseEntity<Shop> saveShop(@RequestBody Shop shop) {
         shopRepository.save(shop);
-        rabbitTemplate.convertAndSend("notificationQueue", "Shop " + shop.getName() + "is created ");
+        rabbitTemplate.convertAndSend("notificationQueue", "Shop " + shop.getName() + " is created ");
         return ResponseEntity.ok().build();
     }
 }

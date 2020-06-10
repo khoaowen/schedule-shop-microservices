@@ -10,7 +10,7 @@ spring:
     host: localhost
     username: user
     password: P@ssw0rdS
-    port: 5672
+#    port: 15672
 
 zett:
   rabbitmq:

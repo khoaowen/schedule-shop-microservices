@@ -1,12 +1,13 @@
 package com.zett.schedule.app.userservice.controller;
 
-import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
+import org.springframework.stereotype.Component;
 
-@RabbitListener(queues = "notificationQueue")
+@Component
 public class NotificationReceiver {
-    @RabbitHandler
+
+    @RabbitListener(queues = "${zett.rabbitmq.queue}")
     public void receive(String in) {
-        System.out.println(" User Service received this bro " + in);
+        System.out.println(" User Service received this bro: " + in);
     }
 }

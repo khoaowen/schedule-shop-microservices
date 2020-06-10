@@ -8,9 +8,10 @@ services:
       - 3307:3306
 
   rabbitmq:
-    image: rabbitmq:latest
+    image: rabbitmq:3-management
     environment:
       RABBITMQ_DEFAULT_USER: user
       RABBITMQ_DEFAULT_PASS: P@ssw0rdS
     ports:
+      - 15672:15672
       - 5672:5672
